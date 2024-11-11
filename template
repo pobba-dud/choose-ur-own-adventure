@@ -1,0 +1,5 @@
+answer = scan.nextLine();
+if(answer.equals(""))
+            {
+              System.out.println("");
+            }
